@@ -1,0 +1,9 @@
+{
+	"ThePoisoner:PoisonFang": {
+		"NAME": "Poison Fang",
+		"FLAVOR": "The clock is ticking...",
+		"DESCRIPTIONS": [
+			"Unblocked damage is converted into Poison."
+		]
+	}
+}
